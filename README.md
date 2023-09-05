@@ -1,2 +1,2 @@
-# bug-free-fiesta
+# Project Allocate
 Moneycon: your open source personal budgeting tool
